@@ -1,0 +1,8 @@
+gem 'omniauth'
+gem 'omniauth-twitter'
+gem 'sinatra'
+gem 'shotgun'
+gem 'debugger'
+# gem 'twitter'
+# gem 'pg'
+# gem 'sinatra-activerecord'
